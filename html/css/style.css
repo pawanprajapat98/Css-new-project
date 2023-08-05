@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: aqua;
+}
+.wrapper
+{
+    border-bottom: 100px solid black;
+    border-left: 50px solid yellow;
+    border-right: 50px solid green;
+    width: 0;
+}
+.wrapper
+{
+    border-bottom: 100px solid black;
+    border-left: 50px solid yellow;
+    border-right: 50px solid green;
+    width: 0;
+}
